@@ -1,0 +1,53 @@
+OrderID,CustomerName,Email,City,Category,Product,Quantity,UnitPrice,PaymentType,OrderDate,Gender,Status
+1001, rahul ,rahul@gmail.com,Delhi,Electronics,Laptop,1.0,55000.0,UPI,2025-01-05,M,Delivered
+1002,PRIYA,priya@gmail.com,Mumbai,Fashion,Shoes,2.0,2200.0,Card,2025-01-08,F,Delivered
+1003,Aman,,Del,Electronics,Headphones,1.0,1800.0,Cash,2025-01-10,M,Cancelled
+1004,Neha,neha@gmail.com,Delhi,Grocery,Rice,5.0,70.0,UPI,2025-01-12,F,Delivered
+1005,Vikas,vikas@gmail.com,Bengaluru,Electronics,Phone,1.0,28000.0,Card,2025-01-15,M,Delivered
+1006,sana,sana@gmail.com,Mumbai,Fashion,Dress,1.0,1800.0,UPI,2025-01-18,F,Returned
+1007,Rohit,rohit@gmail.com,Mum,Grocery,Oil,3.0,150.0,Cash,2025-01-20,M,Delivered
+1008,Isha,isha@gmail.com,Delhi,Fashion,Bag,1.0,1200.0,Card,2025-01-22,F,Delivered
+1009,Kabir,kabir@gmail.com,Lucknow,Electronics,Laptop,1.0,52000.0,UPI,2025-01-25,M,Delivered
+1010,Meera,meera@gmail.com,Bengaluru,Grocery,Rice,10.0,68.0,Cash,2025-01-28,F,Delivered
+1011,Arjun,arjun@gmail.com,Delhi,Electronics,Phone,2.0,27500.0,Card,2025-02-02,M,Delivered
+1012,Pooja,pooja@gmail.com,Mumbai,Fashion,Shoes,1.0,2500.0,UPI,2025-02-04,F,Delivered
+1013,Dev,dev@gmail.com,Del,Grocery,Oil,4.0,145.0,Cash,2025-02-06,M,Delivered
+1014,Tanya,tanya@gmail.com,Lucknow,Electronics,Headphones,2.0,1750.0,Card,2025-02-09,F,Cancelled
+1015,Imran,imran@gmail.com,Bengaluru,Fashion,Dress,2.0,1900.0,UPI,2025-02-11,M,Delivered
+1016,Anaya,anaya@gmail.com,Mumbai,Grocery,Rice,8.0,72.0,Cash,2025-02-14,F,Delivered
+1017,Karan,karan@gmail.com,Delhi,Electronics,Laptop,1.0,58000.0,Card,2025-02-17,M,Delivered
+1018,  ZOYA ,zoya@gmail.com,Mumbai,Fashion,Bag,2.0,1100.0,UPI,2025-02-19,F,Returned
+1019,Nikhil,nikhil@gmail.com,Bengaluru,Grocery,Oil,2.0,155.0,Cash,2025-02-22,M,Delivered
+1020,Riya,riya@gmail.com,Lucknow,Fashion,Shoes,1.0,2300.0,Card,2025-02-25,F,Delivered
+1021,Farhan,farhan@gmail.com,Delhi,Electronics,Phone,1.0,29000.0,upi,2025-03-01,M,Delivered
+1022,Simran,simran@gmail.com,Mumbai,Fashion,Dress,1.0,2100.0,Card,2025-03-03,F,Delivered
+1023,Yash,yash@gmail.com,Bengaluru,Grocery,Rice,6.0,75.0,Cash,2025-03-05,M,Delivered
+1024,Aditi,aditi@gmail.com,Delhi,Electronics,Headphones,3.0,1600.0,UPI,2025-03-08,F,Delivered
+1025,Manav,manav@gmail.com,Lucknow,fashion,Bag,1.0,1300.0,Card,2025-03-10,M,Cancelled
+1026,Naina,naina@gmail.com,Mumbai,Grocery,Oil,5.0,140.0,UPI,2025-03-12,F,Delivered
+1027,Raghav,raghav@gmail.com,Delhi,Electronics,Laptop,1.0,54000.0,Card,2025-03-15,M,Delivered
+1028,Sara,sara@gmail.com,Bengaluru,Fashion,Shoes,2.0,2400.0,UPI,2025-03-17,F,Delivered
+1029,Adil,adil@gmail.com,Mum,Grocery,Rice,4.0,70.0,Cash,2025-03-20,M,
+1030,Kavya,kavya@gmail.com,Lucknow,Fashion,Dress,1.0,2000.0,Card,2025-03-23,F,Delivered
+1031,Rohan,rohan@gmail.com,Delhi,Electronics,Phone,1.0,26500.0,UPI,2025-04-01,M,Delivered
+1032,Fatima,fatima@gmail.com,Mumbai,Fashion,Bag,1.0,1250.0,Card,2025-04-03,F,Delivered
+1033,Ajay,ajay@gmail.com,Bengaluru,Grocery,Oil,6.0,148.0,Cash,2025-04-05,M,Delivered
+1034,Diya,diya@gmail.com,Delhi,Electronics,Headphones,1.0,1850.0,UPI,2025-04-08,F,Returned
+1035,Sameer,sameer@gmail.com,Lucknow,Fashion,Shoes,,2600.0,Card,2025-04-10,M,Delivered
+1036,Aarohi,aarohi@gmail.com,Mumbai,Grocery,Rice,12.0,69.0,Cash,2025-04-12,F,Delivered
+1037,Harsh,harsh@gmail.com,Delhi,Electronics,Laptop,1.0,56000.0,Card,2025-04-15,M,Delivered
+1038,Mahi,mahi@gmail.com,Bengaluru,Fashion,Dress,2.0,1950.0,UPI,2025-04-17,F,Delivered
+1039,Sahil,sahil@gmail.com,Lucknow,Grocery,Oil,3.0,160.0,Cash,2025-04-20,M,Delivered
+1040,Tara,tara@gmail.com,Mumbai,Electronics,Phone,1.0,,UPI,2025-04-22,F,Delivered
+1041,Nitin,nitin@gmail.com,Delhi,Fashion,Bag,2.0,1150.0,Card,2025-05-01,M,Delivered
+1042,Hina,hina@gmail.com,Bengaluru,Grocery,Rice,7.0,73.0,Cash,2025-05-03,F,Delivered
+1043,Parth,parth@gmail.com,Lucknow,Electronics,Headphones,2.0,1700.0,UPI,2025-05-05,M,Cancelled
+1044,Jiya,  JIYA@GMAIL.COM ,Mumbai,Fashion,Shoes,1.0,2250.0,Card,2025-05-08,F,Delivered
+1045,Omar,omar@gmail.com,Delhi,Grocery,Oil,4.0,152.0,Cash,2025-05-10,M,Delivered
+1046,Pihu,pihu@gmail.com,Bengaluru,Electronics,Laptop,1.0,57000.0,UPI,2025-05-13,,Delivered
+1047,Kunal,kunal@gmail.com,Lucknow,Fashion,Dress,1.0,1850.0,Card,2025-05-15,M,Delivered
+1048,Noor,noor@gmail.com,Mumbai,Grocery,Rice,9.0,71.0,Cash,2025-05-18,F,Delivered
+1049,Irfan,irfan@gmail.com,Delhi,Electronics,Phone,1.0,28500.0,UPI,2025-05-20,M,Delivered
+1050,Leena,leena@gmail.com,Bengaluru,Fashion,Bag,1.0,1350.0,Card,2025-05-22,F,Delivered
+1001, rahul ,rahul@gmail.com,Delhi,Electronics,Laptop,1.0,55000.0,UPI,2025-01-05,M,Delivered
+1006,sana,sana@gmail.com,Mumbai,Fashion,Dress,1.0,1800.0,UPI,2025-01-18,F,Returned
