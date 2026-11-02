@@ -1,0 +1,11 @@
+payment_id,order_id,payment_method,amount,payment_status
+501,1001,UPI,56400,Paid
+502,1002,Card,640,Paid
+503,1003,UPI,6500,Refunded
+504,1004,Card,2500,Paid
+505,1005,NetBanking,9000,Pending
+506,1006,UPI,55000,Paid
+507,1008,Cash,1350,Paid
+508,1009,Card,13000,Paid
+509,1010,UPI,5800,Paid
+510,1013,Card,999,Paid

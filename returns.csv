@@ -1,0 +1,4 @@
+return_id,order_id,return_reason,return_date
+701,1008,Damaged item,2026-01-29
+702,1003,Customer cancelled,2026-01-09
+703,1014,Wrong product,2026-02-07
